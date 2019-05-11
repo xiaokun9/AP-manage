@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>Tonly.ico</file>
+        <file>1.gif</file>
+    </qresource>
+</RCC>
